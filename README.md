@@ -1,3 +1,9 @@
+#TODO
+- Recommendation system which matches freelancers with relevant projects and displayes them on the dashboard page. Can use tags with every project to run LLMS and match them with freelancer's profile tags.
+- DAPP which enables payment with Solana, using wallet adapters, so that project owners can transfer their money in an escrow, which, on project completion, can be transferred into freelancer's account by a mediator/project owner.
+- Run a logic which checks if the payment was transferred and displays it on UI. (most probably webhook).
+
+
 # Turborepo starter
 
 This is an official starter turborepo.
